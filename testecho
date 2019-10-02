@@ -1,0 +1,16 @@
+<meta charset="UTF-8">
+
+<?php
+
+echo 'Sawadeeeeeeeeeeeeeeee' ;
+echo 'start : ' ;
+echo $start.'<br />';
+echo 'stop : ' ;
+echo $stop .'<br />';
+echo 'membts : ';
+echo $membts .'<br />';
+echo 'memmrt : ' ;
+echo $memmrt .'<br />';
+echo 'memarl : ' ;
+echo $memarl;
+?>
